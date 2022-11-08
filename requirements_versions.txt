@@ -2,7 +2,11 @@ transformers==4.19.2
 diffusers==0.3.0
 basicsr==1.4.2
 gfpgan==1.3.8
+<<<<<<< HEAD
 gradio==3.5
+=======
+gradio==3.9
+>>>>>>> 804d9fb83d0c63ca3acd36378707ce47b8f12599
 numpy==1.23.3
 Pillow==9.2.0
 realesrgan==0.3.0
